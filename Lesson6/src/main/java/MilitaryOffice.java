@@ -1,6 +1,7 @@
 public class MilitaryOffice {
     Person[] personRegistry;
 
+
     public MilitaryOffice(Person[] personRegistry) {
         this.personRegistry = personRegistry;
     }
